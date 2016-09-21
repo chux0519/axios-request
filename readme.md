@@ -3,6 +3,7 @@
 - node v4.4.4+ 
 - npm v3.10.6+ 
 - babel v6.14.0+
+
 #### 构建：
 ```
 git clone https://github.com/chux0519/axios-request.git
