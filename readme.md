@@ -1,5 +1,9 @@
 # 关于axios在node中的post使用
 
+## updated 2018-05-04
+
+> 原博文版本转至分支 [legacy](https://github.com/chux0519/axios-request/tree/legacy), master分支演示正确使用姿势，已经重构，请配合node8+食用
+
 ## 环境依赖：
 
 - node v8+
